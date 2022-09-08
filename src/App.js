@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         Git training
       </header>
+      <div>Feature 1</div>
     </div>
   );
 }
