@@ -1,13 +1,14 @@
-import logo from './logo.svg';
 import './App.css';
+import { CounterFunc } from './components/Counter-func';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <header className='header'>
         Git training
       </header>
-      <div>Feature 1</div>
+      <div><CounterFunc /></div>
+
     </div>
   );
 }
