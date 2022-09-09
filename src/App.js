@@ -1,5 +1,6 @@
 import './App.css';
 import { CounterFunc } from './components/Counter-func';
+import { CounterClass } from './components/Counter-class';
 
 function App() {
   return (
@@ -8,7 +9,7 @@ function App() {
         Git training
       </header>
       <div><CounterFunc /></div>
-
+      <div><CounterClass /></div>
     </div>
   );
 }
