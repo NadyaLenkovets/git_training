@@ -14,6 +14,9 @@ function App() {
       <div><CounterClass /></div>
       <p>Hello</p>
       {/* some code */}
+
+
+      {/* some changes */}
     </div>
   );
 }
