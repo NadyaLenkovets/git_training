@@ -12,8 +12,10 @@ function App() {
       <Feature2 />
       <div><CounterFunc /></div>
       <div><CounterClass /></div>
+      <p>Hello</p>
     </div>
   );
 }
+
 
 export default App;
