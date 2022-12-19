@@ -12,8 +12,14 @@ function App() {
       <Feature2 />
       <div><CounterFunc /></div>
       <div><CounterClass /></div>
+      <p>Hello</p>
+      {/* sgssdgsdd
+      bdbfdfbdfb
+      dbdbdbdfbdfbdfb
+      dfbdbdfbdfbdfb */}
     </div>
   );
 }
+
 
 export default App;
