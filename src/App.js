@@ -13,6 +13,7 @@ function App() {
       <div><CounterFunc /></div>
       <div><CounterClass /></div>
       <p>Hello</p>
+      {/* some code */}
     </div>
   );
 }
