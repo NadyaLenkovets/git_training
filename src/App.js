@@ -15,6 +15,11 @@ function App() {
       <p>Hello</p>
       {/* some code */}
       {/* some more code */}
+      {/* some 
+      much
+      more 
+      code 
+      */}
     </div>
   );
 }
