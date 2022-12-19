@@ -10,6 +10,7 @@ function App() {
       </header>
       <div><CounterFunc /></div>
       <div><CounterClass /></div>
+      {/* some changes */}
       {/* some more changes */}
     </div>
   );
